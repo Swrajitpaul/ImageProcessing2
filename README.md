@@ -1,2 +1,3 @@
 # ImageProcessing2
-this repository has the work from the second time i took this course
+this repository contains the work from the second time I took this course....
+hardcover for each project describes the specifcation and the purpose of each program.
